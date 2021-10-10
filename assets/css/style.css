@@ -807,6 +807,19 @@ form button.btn-primary:hover {
     color: #fff;
     font-size: 12px;
 }
+#myTextarea{
+  width: 100%;
+  background: transparent;
+  border: 1px solid #fff;
+  margin: 6px 0;
+  height: 62px;
+  border-radius: 20px;
+  padding: 0 10px;
+  box-sizing: border-box;
+  outline: none;
+  text-align: center;
+  color: #fff;
+}
 .fom-btn{
     width: 100%;
     background: transparent;
